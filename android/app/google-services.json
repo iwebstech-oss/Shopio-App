@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "857711410836",
+    "firebase_url": "https://shopio-d8bcb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shopio-d8bcb",
+    "storage_bucket": "shopio-d8bcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857711410836:android:f4563ed83139704baa3e81",
+        "android_client_info": {
+          "package_name": "com.iwebstechnology.shopio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmeibEdONP-HHSW8d5TK-TLr2z-taODcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
